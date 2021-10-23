@@ -1,0 +1,10 @@
+
+export const ADD_TO_MENU = "ADD_TO_MENU"
+export const DELETE_FROM_MENU = "DELETE_FROM_MENU"
+export const EDIT_MENU = "EDIT_MENU"
+export const ADD_TO_TABLE = "ADD_TO_TABLE"
+export const DELETE_FROM_TABLE = "DELETE_FROM_TABLE"
+export const UPDATE_QUANTITY = "UPDATE_QUANTITY"
+export const CLEAR = "CLEAR"
+export const ADD_TABLE = "ADD_TABLE"
+export const REMOVE_TABLE = "REMOVE_TABLE"

@@ -1,0 +1,73 @@
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.menuItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.select { 
+  width: 100%; 
+  margin: 0; 
+  flex: 1; 
+  
+}
+
+.selectWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+
+.button-size {
+  width: 90px;
+  height: 37px;
+}
+
+.button-size-big {
+  width: 150px;
+  height: 37px;
+}
+
+.orange-text {
+  margin-top: 5px;
+  color: #EA7773;
+ }
+
+ .blue-text {
+  margin-top: 5px;
+  color: #487EB0;
+ }
+
+ .big-text {
+   font-size: 16px;
+ }
+
+ .margin-top {
+   margin-top: 5px;
+ }
+
+ .bill-text-sm {
+     text-align:center;
+     margin-top: 20px; 
+     color: #487EB0
+ }
+
+ .bill-text-lg {
+  text-align:center; 
+  color: #EA7773;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
